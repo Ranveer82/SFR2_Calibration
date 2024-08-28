@@ -1,6 +1,0 @@
-#GMS_HDF5_01
-10 740 AUX IFACE AUX QFACT AUX CELLGRP
-        10         0         0
-GMS_HDF5_01 "SFR2_GMS.h5" "Well" 1
-        10         0         0
-GMS_HDF5_01 "SFR2_GMS.h5" "Well" 2
