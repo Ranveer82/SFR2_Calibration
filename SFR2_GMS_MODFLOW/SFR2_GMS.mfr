@@ -1,0 +1,15 @@
+GMS RESULT FILE
+HED "SFR2_GMS.hed"
+CCF "SFR2_GMS.ccf"
+CCF2 "SFR2_GMS.ccf2"
+GAGE
+"SFR2_GMS_stream_gage_1.gag"
+"SFR2_GMS_stream_gage_2.gag"
+"SFR2_GMS_stream_gage_3.gag"
+"SFR2_GMS_stream_gage_4.gag"
+"SFR2_GMS_stream_gage_5.gag"
+"SFR2_GMS_stream_gage_6.gag"
+"SFR2_GMS_stream_gage_7.gag"
+"SFR2_GMS_stream_gage_8.gag"
+"SFR2_GMS_stream_gage_9.gag"
+ENDG
