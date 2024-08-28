@@ -1,0 +1,6 @@
+#TestProblem 1                       
+#Transient Simulation For SFR Package
+FREE
+HDF5 1.0 -1 "SFR2_GMS.h5" "Arrays/ibound1" 1 0 150
+6999.0
+HDF5 1.0 -1 "SFR2_GMS.h5" "Arrays/StartHead1" 1 0 150

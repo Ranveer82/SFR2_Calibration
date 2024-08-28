@@ -1,0 +1,6 @@
+#GMS_HDF5_01
+3 740
+1 1 
+HDF5 5.0e-010 -1 "SFR2_GMS.h5" "Recharge/07. Property" 3 0 1 0 150 0 1
+1 1 
+HDF5 1.0 -1 "SFR2_GMS.h5" "Recharge/07. Property" 3 0 1 0 150 1 1
